@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMy3b+bLpgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sondre\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestingMod\\TestingMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sondre\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
